@@ -12,9 +12,6 @@ Hi there, I'm a senior Full-stack developer
 
 ⚡ Fun fact: I love a challenge. That's why I run half-marathons, I play the guitar and still haven't given up on playing soccer professionally. I know I can do it.
 
-![image](https://github.com/ayapro0330/ayapro0330/assets/161618893/de05e1bb-7720-4df7-828b-0ccc2c30c58b)
-
-
 📫 How to reach me
 Email: ayapro0330@gmail.com
 
