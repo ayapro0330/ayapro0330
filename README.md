@@ -16,10 +16,13 @@ total stars followers
 
 📫 How to reach me
 Email: ayapro0330@gmail.com
+
 Skype: live:.cid.7d4d9d2d7a6ad0d1
+
 Discord: Aya H
+
 Telegram: https://t.me/Akachi1325
+
 Whatsapp: 1 581 285 4572
+
 Languages and Tools:
-[[amplify angular angularjs aws azure babel bootstrap c chartjs codeigniter csharp css3 d3js docker electron elixir erlang express figma firebase gcp git go graphql haskell heroku hive html5 illustrator java javascript laravel linux mongodb mysql nestjs nextjs nginx nodejs nuxtjs opencv oracle photoshop php postgresql postman puppeteer python pytorch rabbitMQ reactnative redis redux rust sass sqlite tailwind tensorflow typescript unity unreal vuejs vuetify webpack xd
-](https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg)https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg)https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg
