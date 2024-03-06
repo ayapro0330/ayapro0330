@@ -2,7 +2,7 @@ Hi there, I'm a senior Full-stack developer
 
 👦🏻 Pronouns: He/Him
 
-🔭 I’m currently working on: Defi, Dapp, NFT marketplace(Opensea, 0xv4), DEX(Uniswap v2,v3), Stake and Farming(Fork OlympusDAO, PancakeSwap) and other Ecommerce sites (for real though, I love starting stuff from scratch and fresh ideas).
+🔭 I’m currently working on: Ecommerce sites (for real though, I love starting stuff from scratch and fresh ideas) and other Defi, Dapp, NFT marketplace(Opensea, 0xv4), DEX(Uniswap v2,v3), Stake and Farming(Fork OlympusDAO, PancakeSwap).
 
 🌱 I’m currently learning: Right now I'm obsessed with Solidity, Web3 and React.
 
@@ -25,4 +25,4 @@ Telegram: https://t.me/AyaH
 
 Whatsapp: 1 581 285 4572
 
-Languages and Tools:![smallimage](https://github.com/ayapro0330/ayapro0330/assets/161618893/7549c74b-3291-4e93-9def-1bf16fa108a7)
+Languages and Tools:![image](https://github.com/ayapro0330/ayapro0330/assets/161618893/7549c74b-3291-4e93-9def-1bf16fa108a7)
