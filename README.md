@@ -21,8 +21,8 @@ Skype: live:.cid.7d4d9d2d7a6ad0d1
 
 Discord: Aya H
 
-Telegram: https://t.me/AyaH
+Telegram: https://t.me/AyaH0330
 
 Whatsapp: 1 581 285 4572
 
-Languages and Tools:![image](https://github.com/ayapro0330/ayapro0330/assets/161618893/7549c74b-3291-4e93-9def-1bf16fa108a7)
+
