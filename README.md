@@ -17,10 +17,5 @@ Email: ayapro0330@gmail.com
 
 Skype: live:.cid.7d4d9d2d7a6ad0d1
 
-Discord: Aya H
-
-Telegram: https://t.me/AyaH0330
-
-Whatsapp: 1 581 285 4572
 
 
